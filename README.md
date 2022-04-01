@@ -1,2 +1,2 @@
-# Avalia-o_Responsivo
+# Avaliação_Responsivo
 Projeto responsivo web, utilizando apenas HTML e CSS e propriedades para trabalhar com media queries para alunos que estão na unidade curricular de Design Responsivo . Projeto no qual, eu como professora, realizei sozinha com estudos porém para esse repositório, coloquei de forma completa. Por ser uma avaliação, os alunos receberam essa página web sem nenhum tipo de formatação responsiva, onde o objetivo era trazer a responsividade em pauta para compor na nota.
